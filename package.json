@@ -1,0 +1,14 @@
+{
+  "name": "srijan-binarysearch-geekster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "srijan-binarysearch-geekster": "^1.0.0"
+  }
+}
